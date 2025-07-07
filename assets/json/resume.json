@@ -22,7 +22,7 @@
       "endDate": "Present",
       "summary": "Research on uncertainty quantification for reliable ML with advisor John Duchi.",
       "highlights": [
-        "Designed online conformal inference algorithms for stochastic modeling with improved statistical consistency properties, and presented results at ICML 2025.", 
+        "Designed online conformal inference algorithms for stochastic modeling with improved statistical consistency properties, and presented results at ICML 2025.",
         "Obtained tight upper bounds on the convergence rate of the proposed online procedures leveraging techniques from monotone operator theory and convex optimization.",
         "Proved matching upper and lower bounds for estimation of weak calibration error under VC dimension constraints, and presented results at COLT 2024.",
         "Developed local minimax bounds using information-theoretic tools to assess the statistical optimality of algorithms designed to provide weighted conformal coverage."
@@ -35,7 +35,7 @@
       "endDate": "2022-06",
       "summary": "Research on information-theoretic limits of communications systems with Professor Richard Wesel.",
       "highlights": [
-        "Designed a dynamic programming algorithm for computation of general converses for arbitrary discrete memoryless channels, and presented results at ISIT 2022.", 
+        "Designed a dynamic programming algorithm for computation of general converses for arbitrary discrete memoryless channels, and presented results at ISIT 2022.",
         "Programmed simulation software for error rate estimation of maximum accumulated information density decoding using both fixed and variable length blocklength with stop feedback.",
         "Developed MATLAB trellis code interfaces for custom code structures using state space representations."
       ]
@@ -47,7 +47,7 @@
       "endDate": "2022-06",
       "summary": "Research on machine learning for automated planning.",
       "highlights": [
-        "Designed a system for classification and ranking of relevant actions in the grounding stage of automated planning tasks using fastText embeddings in Python.", 
+        "Designed a system for classification and ranking of relevant actions in the grounding stage of automated planning tasks using fastText embeddings in Python.",
         "Integrated learning models into standard planning solvers.",
         "Engineered software for effective data visualization of ML model performance using custom evaluation metrics."
       ]
@@ -147,22 +147,13 @@
       "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "MATLAB"
-      ]
+      "keywords": ["Python", "MATLAB"]
     },
     {
       "name": "Machine Learning",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "PyTorch",
-        "Keras",
-        "Scikit_learn",
-        "Pandas",
-        "NumPy"
-      ]
+      "keywords": ["PyTorch", "Keras", "Scikit_learn", "Pandas", "NumPy"]
     }
   ],
   "languages": [
@@ -181,9 +172,7 @@
     {
       "name": "Infomration Theory",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        ""
-      ]
+      "keywords": [""]
     }
   ]
 }
