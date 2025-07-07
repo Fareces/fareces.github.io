@@ -1,17 +1,16 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: Electrical Engineering PhD student at <a href='https://profiles.stanford.edu/felipe-areces'>Stanford University</a>.
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>E214 CoDa building </p>
+    <p>389 Jane Stanford Way</p>
+    <p>Stanford, CA 94305</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +21,15 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m a fourth-year PhD student in Electrical Engineering at Stanford University. I joined the program in autumn 2022 and am fortunate to be advised by Professor John Duchi, working on uncertainty quantification for reliable machine learning.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I grew up in Buenos Aires :argentina: and moved to California in 2018 to pursue a B.S. in Electrical Engineering at UCLA. During that time, I had the opportunity to join Professor Richard Wesel's Communications Systems Laboratory (CSL), which sparked my interest in information theory and statistics. My work at UCLA focused on characterizing the fundamental limits of communication systems and using these insights to design improved communication protocols.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+At Stanford, my research builds on this foundation, as I develop methods for uncertainty quantification in machine learning. My goal is to understand both the theoretical limits and practical possibilities of reliable predictions. I have focused on techniques like conformal prediction and calibration in both offline and adversarial online settings, and I've recently begun exploring safe and principled reinforcement learning for large language models.
+
+I’m passionate about translating theoretical insights into practical tools that bring provable reliability to machine learning systems. If you're working on related problems or are simply curious, I’d love to connect, chat, or collaborate—feel free to reach out!
